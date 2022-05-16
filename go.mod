@@ -34,7 +34,7 @@ require (
 	github.com/mdlayher/dhcp6 v0.0.0-20190311162359-2a67805d7d0b
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab // indirect
-	github.com/miekg/dns v1.1.22
+	github.com/miekg/dns v1.1.25
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/robertkrimen/otto v0.0.0-20180617131154-15f95af6e78d
@@ -44,5 +44,4 @@ require (
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582
 	golang.org/x/sys v0.0.0-20191018095205-727590c5006e // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
-	honnef.co/go/tools v0.0.0-2019.2.1 // indirect
 )
