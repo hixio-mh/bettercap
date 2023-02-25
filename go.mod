@@ -42,7 +42,6 @@ require (
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582
-	golang.org/x/sys v0.0.0-20191018095205-727590c5006e // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
-	honnef.co/go/tools v0.0.0-2019.2.1 // indirect
 )
